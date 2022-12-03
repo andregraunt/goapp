@@ -9,6 +9,8 @@
 // 	fmt.Println("hello go")
 // 	fmt.Printf("My name is %s, My age %d and I gonna %f dollars ", name, age, maskoret)
 // }
+//
+// go build -ldflags "-s -w" main.go
 
 package main
 
